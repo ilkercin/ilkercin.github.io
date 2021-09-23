@@ -1,4 +1,4 @@
-# Welcome to my demo Website
+# Welcome to the class INFS1020
 
 - Happy **birthday**
 - Have a *lovely* day
